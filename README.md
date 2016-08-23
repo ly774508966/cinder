@@ -6,3 +6,8 @@ A clean, responsive MkDocs static documentation site generator theme
 
 [Demo and Documentation](http://sourcefoundry.org/cinder/)
 
+## ProBuilder Fork-Specific
+
+This fork is modified for building PDFs from ProBuilder docs.
+
+Disclaimer - I do not understand CSS.
